@@ -15,5 +15,3 @@ for summ in json['comments']:
   lst.append(summ['count'])
 
 print('Total comments:', sum(lst))
-
-#http://py4e-data.dr-chuck.net/comments_1612095.json
