@@ -11,7 +11,3 @@ while True:
         break
     count = count + len(doc)
 print(count)
-
-# Code: http://www.py4e.com/code3/urllib1.py
-# url: httn(://data.pr4e.org/mbox.txt
-
