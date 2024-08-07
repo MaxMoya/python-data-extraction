@@ -28,4 +28,3 @@ print(count)
 
 
 mysock.close()
-#http://data.pr4e.org/mbox.txt
